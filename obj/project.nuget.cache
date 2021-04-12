@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LxZuVAPSKtqVjL4Kp1cvpMsyYj6dvQj1CeU+Om22B4oIXMy8Gcj9YhJREqBfd9BFUMP11lqBdIEJUat2XdFEOA==",
+  "dgSpecHash": "BiYpQ3oPuIicTUfMBi+nYj5BvVT8eKAzcIb2FlplGc/zONv+AlXB3wUR41AWKrm+coRzPGhmcv832feuQS2ZBw==",
   "success": true,
   "projectFilePath": "/Users/samh/dev/tmp/overrides_repro/overrides_repro.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/samh/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
   "logs": []
 }
