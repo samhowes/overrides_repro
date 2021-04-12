@@ -1,0 +1,15 @@
+/Users/samh/dev/tmp/overrides_repro/bin/Debug/net5.0/overrides_repro.deps.json
+/Users/samh/dev/tmp/overrides_repro/bin/Debug/net5.0/overrides_repro.runtimeconfig.json
+/Users/samh/dev/tmp/overrides_repro/bin/Debug/net5.0/overrides_repro.runtimeconfig.dev.json
+/Users/samh/dev/tmp/overrides_repro/bin/Debug/net5.0/overrides_repro.dll
+/Users/samh/dev/tmp/overrides_repro/bin/Debug/net5.0/ref/overrides_repro.dll
+/Users/samh/dev/tmp/overrides_repro/bin/Debug/net5.0/overrides_repro.pdb
+/Users/samh/dev/tmp/overrides_repro/obj/Debug/net5.0/overrides_repro.csprojAssemblyReference.cache
+/Users/samh/dev/tmp/overrides_repro/obj/Debug/net5.0/overrides_repro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samh/dev/tmp/overrides_repro/obj/Debug/net5.0/overrides_repro.AssemblyInfoInputs.cache
+/Users/samh/dev/tmp/overrides_repro/obj/Debug/net5.0/overrides_repro.AssemblyInfo.cs
+/Users/samh/dev/tmp/overrides_repro/obj/Debug/net5.0/overrides_repro.csproj.CoreCompileInputs.cache
+/Users/samh/dev/tmp/overrides_repro/obj/Debug/net5.0/overrides_repro.dll
+/Users/samh/dev/tmp/overrides_repro/obj/Debug/net5.0/ref/overrides_repro.dll
+/Users/samh/dev/tmp/overrides_repro/obj/Debug/net5.0/overrides_repro.pdb
+/Users/samh/dev/tmp/overrides_repro/obj/Debug/net5.0/overrides_repro.genruntimeconfig.cache
