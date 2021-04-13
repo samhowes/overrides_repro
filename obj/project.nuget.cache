@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BiYpQ3oPuIicTUfMBi+nYj5BvVT8eKAzcIb2FlplGc/zONv+AlXB3wUR41AWKrm+coRzPGhmcv832feuQS2ZBw==",
+  "dgSpecHash": "pWDeAyM8/JPWQ5EBkNc4vSSxa6ELB4znXKJKTLtYnaNlBwDH3HWtzpxqx6hwFwMhzNn7w3O4PLf17uXHHkhROg==",
   "success": true,
   "projectFilePath": "/Users/samh/dev/tmp/overrides_repro/overrides_repro.csproj",
   "expectedPackageFiles": [
